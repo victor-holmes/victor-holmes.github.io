@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 68px;
+			height: 68px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 68px;
+				height: 68px;
 			}
 
 		.image.fit {
@@ -2241,7 +2241,7 @@ input, select, textarea {
 					}
 
 			#main > section.cover {
-				padding: 10em 0;
+				padding: 1em 0;
 				background-size: cover;
 				background-position: center center;
 			}
@@ -2598,7 +2598,7 @@ input, select, textarea {
 		/* List */
 
 			ul.icons a {
-				width: 2em;
+				width: 66em;
 				font-size: 1.25em;
 			}
 
